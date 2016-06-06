@@ -1,0 +1,90 @@
+\begin{thebibliography}{}
+
+\bibitem[Anisimovich et~al., 2012]{anisimovich2012syntactic}
+Anisimovich, K.~V., Druzhkin, K.~J., Minlos, F.~R., Petrova, M.~A., Selegey,
+  V.~P., and Zuev, K.~A. (2012).
+\newblock Syntactic and semantic parser based on {ABBYY} {Compreno} linguistic
+  technologies.
+\newblock In {\em Computational Linguistics and Intellectual Technologies:
+  Proceedings of the International Conference Dialog}, page~18.
+
+\bibitem[Bian et~al., 2014]{bian2014knowledge}
+Bian, J., Gao, B., and Liu, T.-Y. (2014).
+\newblock Knowledge-powered deep learning for word embedding.
+\newblock In {\em Machine Learning and Knowledge Discovery in Databases}, pages
+  132--148. Springer.
+
+\bibitem[Chiu and Nichols, 2015]{chiu2015named}
+Chiu, J.~P. and Nichols, E. (2015).
+\newblock Named entity recognition with bidirectional lstm-cnns.
+\newblock {\em arXiv preprint arXiv:1511.08308}.
+
+\bibitem[Collobert et~al., 2011]{collobert2011natural}
+Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., and Kuksa,
+  P. (2011).
+\newblock Natural language processing (almost) from scratch.
+\newblock {\em The Journal of Machine Learning Research}, 12:2493--2537.
+
+\bibitem[Davis et~al., 2016]{davissurvey}
+Davis, T.~A., Rajamanickam, S., and Sid-Lakhdar, W.~M. (2016).
+\newblock A survey of direct methods for sparse linear systems.
+
+\bibitem[Florian et~al., 2003]{florian2003named}
+Florian, R., Ittycheriah, A., Jing, H., and Zhang, T. (2003).
+\newblock Named entity recognition through classifier combination.
+\newblock In {\em Proceedings of the seventh conference on Natural language
+  learning at HLT-NAACL 2003-Volume 4}, pages 168--171. Association for
+  Computational Linguistics.
+
+\bibitem[Mikolov et~al., 2013]{mikolov2013distributed}
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G.~S., and Dean, J. (2013).
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em Advances in neural information processing systems}, pages
+  3111--3119.
+
+\bibitem[Nadeau and Sekine, 2007]{nadeau2007survey}
+Nadeau, D. and Sekine, S. (2007).
+\newblock A survey of named entity recognition and classification.
+\newblock {\em Lingvisticae Investigationes}, 30(1):3--26.
+
+\bibitem[Navigli and Ponzetto, 2010]{navigli2010babelnet}
+Navigli, R. and Ponzetto, S.~P. (2010).
+\newblock Babelnet: Building a very large multilingual semantic network.
+\newblock In {\em Proceedings of the 48th annual meeting of the association for
+  computational linguistics}, pages 216--225. Association for Computational
+  Linguistics.
+
+\bibitem[Nivre et~al., 2006]{nivre2006maltparser}
+Nivre, J., Hall, J., and Nilsson, J. (2006).
+\newblock Maltparser: A data-driven parser-generator for dependency parsing.
+\newblock In {\em Proceedings of LREC}, volume~6, pages 2216--2219.
+
+\bibitem[Sahlgren, 2008]{sahlgren2008distributional}
+Sahlgren, M. (2008).
+\newblock The distributional hypothesis. from context to meaning:
+  Distributional models of the lexicon in linguistics and cognitive science
+  (special issue of the italian journal of linguistics).
+\newblock {\em Rivista di Linguistica}, 20(1).
+
+\bibitem[Tjong Kim~Sang and De~Meulder, 2003]{tjong2003introduction}
+Tjong Kim~Sang, E.~F. and De~Meulder, F. (2003).
+\newblock Introduction to the conll-2003 shared task: Language-independent
+  named entity recognition.
+\newblock In {\em Proceedings of the seventh conference on Natural language
+  learning at HLT-NAACL 2003-Volume 4}, pages 142--147. Association for
+  Computational Linguistics.
+
+\bibitem[Xu et~al., 2014]{xu2014rc}
+Xu, C., Bai, Y., Bian, J., Gao, B., Wang, G., Liu, X., and Liu, T.-Y. (2014).
+\newblock Rc-net: A general framework for incorporating knowledge into word
+  representations.
+\newblock In {\em Proceedings of the 23rd ACM International Conference on
+  Conference on Information and Knowledge Management}, pages 1219--1228. ACM.
+
+\bibitem[Yang et~al., 2016]{DBLP:journals/corr/YangSC16}
+Yang, Z., Salakhutdinov, R., and Cohen, W. (2016).
+\newblock Multi-task cross-lingual sequence tagging from scratch.
+\newblock {\em CoRR}, abs/1603.06270.
+
+\end{thebibliography}
