@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: rpz.aux
+The style file: apalike.bst
+A level-1 auxiliary file: 00-abstract.aux
+A level-1 auxiliary file: 10-defines.aux
+A level-1 auxiliary file: 11-abbrev.aux
+A level-1 auxiliary file: 12-intro.aux
+A level-1 auxiliary file: 20-analysis.aux
+A level-1 auxiliary file: 30-design.aux
+A level-1 auxiliary file: 40-impl.aux
+A level-1 auxiliary file: 50-research.aux
+A level-1 auxiliary file: 80-conclusion.aux
+A level-1 auxiliary file: 81-biblio.aux
+Illegal, another \bibstyle command---line 3 of file 81-biblio.aux
+ : \bibstyle
+ :          {gost780u}
+I'm skipping whatever remains of this command
+A level-1 auxiliary file: 90-appendix1.aux
+A level-1 auxiliary file: 91-appendix2.aux
+Database file #1: rpz.bib
+Warning--I didn't find a database entry for "Pup09"
+You've used 9 entries,
+            1935 wiz_defined-function locations,
+            545 strings with 6053 characters,
+and the built_in function-call counts, 4537 in all, are:
+= -- 453
+> -- 201
+< -- 8
++ -- 74
+- -- 70
+* -- 361
+:= -- 739
+add.period$ -- 30
+call.type$ -- 9
+change.case$ -- 80
+chr.to.int$ -- 9
+cite$ -- 9
+duplicate$ -- 189
+empty$ -- 308
+format.name$ -- 83
+if$ -- 934
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 9
+newline$ -- 48
+num.names$ -- 27
+pop$ -- 87
+preamble$ -- 1
+purify$ -- 80
+quote$ -- 0
+skip$ -- 150
+stack$ -- 0
+substring$ -- 307
+swap$ -- 54
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 54
+warning$ -- 0
+while$ -- 35
+width$ -- 0
+write$ -- 122
+(There was 1 error message)
