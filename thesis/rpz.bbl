@@ -14,11 +14,27 @@ Bian, J., Gao, B., and Liu, T.-Y. (2014).
 \newblock In {\em Machine Learning and Knowledge Discovery in Databases}, pages
   132--148. Springer.
 
+\bibitem[Chiu and Nichols, 2015]{chiu2015named}
+Chiu, J.~P. and Nichols, E. (2015).
+\newblock Named entity recognition with bidirectional lstm-cnns.
+\newblock {\em arXiv preprint arXiv:1511.08308}.
+
 \bibitem[Collobert et~al., 2011]{collobert2011natural}
 Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., and Kuksa,
   P. (2011).
 \newblock Natural language processing (almost) from scratch.
 \newblock {\em The Journal of Machine Learning Research}, 12:2493--2537.
+
+\bibitem[Davis et~al., 2016]{davissurvey}
+Davis, T.~A., Rajamanickam, S., and Sid-Lakhdar, W.~M. (2016).
+\newblock A survey of direct methods for sparse linear systems.
+
+\bibitem[Florian et~al., 2003]{florian2003named}
+Florian, R., Ittycheriah, A., Jing, H., and Zhang, T. (2003).
+\newblock Named entity recognition through classifier combination.
+\newblock In {\em Proceedings of the seventh conference on Natural language
+  learning at HLT-NAACL 2003-Volume 4}, pages 168--171. Association for
+  Computational Linguistics.
 
 \bibitem[Mikolov et~al., 2013]{mikolov2013distributed}
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G.~S., and Dean, J. (2013).
@@ -31,6 +47,18 @@ Mikolov, T., Sutskever, I., Chen, K., Corrado, G.~S., and Dean, J. (2013).
 Nadeau, D. and Sekine, S. (2007).
 \newblock A survey of named entity recognition and classification.
 \newblock {\em Lingvisticae Investigationes}, 30(1):3--26.
+
+\bibitem[Navigli and Ponzetto, 2010]{navigli2010babelnet}
+Navigli, R. and Ponzetto, S.~P. (2010).
+\newblock Babelnet: Building a very large multilingual semantic network.
+\newblock In {\em Proceedings of the 48th annual meeting of the association for
+  computational linguistics}, pages 216--225. Association for Computational
+  Linguistics.
+
+\bibitem[Nivre et~al., 2006]{nivre2006maltparser}
+Nivre, J., Hall, J., and Nilsson, J. (2006).
+\newblock Maltparser: A data-driven parser-generator for dependency parsing.
+\newblock In {\em Proceedings of LREC}, volume~6, pages 2216--2219.
 
 \bibitem[Sahlgren, 2008]{sahlgren2008distributional}
 Sahlgren, M. (2008).

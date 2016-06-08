@@ -1,0 +1,16 @@
+\chapter{Программная часть}
+
+Нейронная сеть написана с использованием открытого фреймворка torch\footnote{http://torch.ch}.
+
+Код для воспроизведения экспериментов выложен по адресу:
+\href{https://github.com/sld/torch-conv-ner}{github.com/sld/torch-conv-ner}.
+
+Скорость обучения на машине с GPU Amazon AWS g2.2xlarge\footnote{https://aws.amazon.com/ru/ec2/instance-types/}:
+\begin{itemize}
+\item 1 эпоха при одиночной обработке (stochastic gradient descent): $\sim$450 сек.
+\item 1 эпоха при пакетной обработке (mini-batch gradient descent): $\sim$171 сек.
+\item Модель получающая 87.49\% обучалась 91 эпоху ($\sim$4.2 часа).
+\item 1 эпоха при пакетной обработке с использованием признаков Compreno: $\sim$615 сек.
+\end{itemize}
+
+Скорость классификации составляет 2500 токенов в секунду при пакетной обработке.
