@@ -6,10 +6,9 @@ A level-1 auxiliary file: 00-abstract.aux
 A level-1 auxiliary file: 10-defines.aux
 A level-1 auxiliary file: 11-abbrev.aux
 A level-1 auxiliary file: 12-intro.aux
-A level-1 auxiliary file: 20-literature.aux
-A level-1 auxiliary file: 30-model.aux
+A level-1 auxiliary file: 20-theory-analysis.aux
+A level-1 auxiliary file: 30-project.aux
 A level-1 auxiliary file: 40-experiments.aux
-A level-1 auxiliary file: 50-program.aux
 A level-1 auxiliary file: 80-conclusion.aux
 A level-1 auxiliary file: 81-biblio.aux
 Illegal, another \bibstyle command---line 3 of file 81-biblio.aux
@@ -22,7 +21,7 @@ Database file #1: rpz.bib
 Warning--empty journal in davissurvey
 You've used 14 entries,
             1935 wiz_defined-function locations,
-            569 strings with 6921 characters,
+            568 strings with 6914 characters,
 and the built_in function-call counts, 6898 in all, are:
 = -- 696
 > -- 286
