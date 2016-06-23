@@ -36,6 +36,11 @@ Florian, R., Ittycheriah, A., Jing, H., and Zhang, T. (2003).
   learning at HLT-NAACL 2003-Volume 4}, pages 168--171. Association for
   Computational Linguistics.
 
+\bibitem[Glorot and Bengio, 2010]{glorot2010understanding}
+Glorot, X. and Bengio, Y. (2010).
+\newblock Understanding the difficulty of training deep feedforward neural
+  networks.
+
 \bibitem[Mikolov et~al., 2013]{mikolov2013distributed}
 Mikolov, T., Sutskever, I., Chen, K., Corrado, G.~S., and Dean, J. (2013).
 \newblock Distributed representations of words and phrases and their
@@ -66,6 +71,12 @@ Sahlgren, M. (2008).
   Distributional models of the lexicon in linguistics and cognitive science
   (special issue of the italian journal of linguistics).
 \newblock {\em Rivista di Linguistica}, 20(1).
+
+\bibitem[Srivastava et~al., 2014]{srivastava2014dropout}
+Srivastava, N., Hinton, G.~E., Krizhevsky, A., Sutskever, I., and
+  Salakhutdinov, R. (2014).
+\newblock Dropout: a simple way to prevent neural networks from overfitting.
+\newblock {\em Journal of Machine Learning Research}, 15(1):1929--1958.
 
 \bibitem[Tjong Kim~Sang and De~Meulder, 2003]{tjong2003introduction}
 Tjong Kim~Sang, E.~F. and De~Meulder, F. (2003).

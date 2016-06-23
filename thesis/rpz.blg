@@ -17,45 +17,46 @@ A level-1 auxiliary file: 90-appendix1.aux
 A level-1 auxiliary file: 91-appendix2.aux
 Database file #1: rpz.bib
 Warning--empty journal in davissurvey
-You've used 14 entries,
+Warning--empty booktitle in glorot2010understanding
+You've used 16 entries,
             1935 wiz_defined-function locations,
-            566 strings with 6887 characters,
-and the built_in function-call counts, 6898 in all, are:
-= -- 696
-> -- 286
-< -- 14
-+ -- 104
-- -- 98
-* -- 536
-:= -- 1110
-add.period$ -- 46
-call.type$ -- 14
-change.case$ -- 119
-chr.to.int$ -- 14
-cite$ -- 15
-duplicate$ -- 298
-empty$ -- 477
-format.name$ -- 120
-if$ -- 1433
+            575 strings with 7260 characters,
+and the built_in function-call counts, 7735 in all, are:
+= -- 774
+> -- 327
+< -- 15
++ -- 118
+- -- 112
+* -- 611
+:= -- 1254
+add.period$ -- 51
+call.type$ -- 16
+change.case$ -- 136
+chr.to.int$ -- 16
+cite$ -- 18
+duplicate$ -- 329
+empty$ -- 536
+format.name$ -- 138
+if$ -- 1594
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 14
-newline$ -- 72
-num.names$ -- 42
-pop$ -- 135
+missing$ -- 16
+newline$ -- 81
+num.names$ -- 48
+pop$ -- 155
 preamble$ -- 1
-purify$ -- 119
+purify$ -- 136
 quote$ -- 0
-skip$ -- 239
+skip$ -- 259
 stack$ -- 0
-substring$ -- 473
-swap$ -- 88
+substring$ -- 528
+swap$ -- 89
 text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 84
-warning$ -- 1
-while$ -- 54
+type$ -- 96
+warning$ -- 2
+while$ -- 60
 width$ -- 0
-write$ -- 186
+write$ -- 209
 (There was 1 error message)
