@@ -8,6 +8,12 @@ Anisimovich, K.~V., Druzhkin, K.~J., Minlos, F.~R., Petrova, M.~A., Selegey,
 \newblock In {\em Computational Linguistics and Intellectual Technologies:
   Proceedings of the International Conference Dialog}, page~18.
 
+\bibitem[Bahrampour et~al., 2015]{bahrampour2015comparative}
+Bahrampour, S., Ramakrishnan, N., Schott, L., and Shah, M. (2015).
+\newblock Comparative study of caffe, neon, theano, and torch for deep
+  learning.
+\newblock {\em arXiv preprint arXiv:1511.06435}.
+
 \bibitem[Bian et~al., 2014]{bian2014knowledge}
 Bian, J., Gao, B., and Liu, T.-Y. (2014).
 \newblock Knowledge-powered deep learning for word embedding.

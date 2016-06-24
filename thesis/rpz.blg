@@ -6,7 +6,6 @@ A level-1 auxiliary file: 00-abstract.aux
 A level-1 auxiliary file: 12-intro.aux
 A level-1 auxiliary file: 20-theory-analysis.aux
 A level-1 auxiliary file: 30-project.aux
-A level-1 auxiliary file: 40-experiments.aux
 A level-1 auxiliary file: 80-conclusion.aux
 A level-1 auxiliary file: 81-biblio.aux
 Illegal, another \bibstyle command---line 3 of file 81-biblio.aux
@@ -18,45 +17,45 @@ A level-1 auxiliary file: 91-appendix2.aux
 Database file #1: rpz.bib
 Warning--empty journal in davissurvey
 Warning--empty booktitle in glorot2010understanding
-You've used 16 entries,
+You've used 17 entries,
             1935 wiz_defined-function locations,
-            575 strings with 7260 characters,
-and the built_in function-call counts, 7735 in all, are:
-= -- 774
-> -- 327
+            578 strings with 7444 characters,
+and the built_in function-call counts, 8102 in all, are:
+= -- 807
+> -- 350
 < -- 15
-+ -- 118
-- -- 112
-* -- 611
-:= -- 1254
-add.period$ -- 51
-call.type$ -- 16
-change.case$ -- 136
-chr.to.int$ -- 16
-cite$ -- 18
-duplicate$ -- 329
-empty$ -- 536
-format.name$ -- 138
-if$ -- 1594
++ -- 126
+- -- 120
+* -- 642
+:= -- 1324
+add.period$ -- 54
+call.type$ -- 17
+change.case$ -- 145
+chr.to.int$ -- 17
+cite$ -- 19
+duplicate$ -- 342
+empty$ -- 556
+format.name$ -- 147
+if$ -- 1661
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 16
-newline$ -- 81
-num.names$ -- 48
-pop$ -- 155
+missing$ -- 17
+newline$ -- 86
+num.names$ -- 51
+pop$ -- 164
 preamble$ -- 1
-purify$ -- 136
+purify$ -- 145
 quote$ -- 0
-skip$ -- 259
+skip$ -- 269
 stack$ -- 0
-substring$ -- 528
-swap$ -- 89
+substring$ -- 540
+swap$ -- 90
 text.length$ -- 9
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
+type$ -- 102
 warning$ -- 2
-while$ -- 60
+while$ -- 62
 width$ -- 0
-write$ -- 209
+write$ -- 221
 (There was 1 error message)
